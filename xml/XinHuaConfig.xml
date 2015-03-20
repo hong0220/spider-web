@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Task>
+	<Name>XinHua</Name>
+	<ContentTable>content</ContentTable>
+	<Encoding>utf-8</Encoding>
+	<LinkUrl>http://www.xinhuanet.com/</LinkUrl>
+	<CrawlDepth>20</CrawlDepth>
+	<Interval>60000</Interval>
+	<ColumnNames>
+		<Column>
+			<Name>title</Name>
+			<Xpath>//*[@id='title']</Xpath>
+		</Column>
+		<Column>
+			<Name>time</Name>
+			<Xpath>//*[@id='pubtime']</Xpath>
+		</Column>
+		<Column>
+			<Name>source</Name>
+			<Xpath>//*[@id='source']</Xpath>
+		</Column>
+		<Column>
+			<Name>content</Name>
+			<Xpath>//*[@id='content']</Xpath>
+		</Column>
+	</ColumnNames>
+</Task>

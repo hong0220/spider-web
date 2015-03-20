@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2015-3-20 21:36:04 by Hibernate Tools 3.2.2.GA -->
+<hibernate-mapping>
+    <class name="com.hibernate.model.Bbs" table="bbs" catalog="spiders">
+        <id name="id" type="java.lang.Integer">
+            <column name="id" />
+            <generator class="identity" />
+        </id>
+        <property name="title" type="string">
+            <column name="title" length="125" />
+        </property>
+        <property name="time" type="string">
+            <column name="time" length="20" />
+        </property>
+        <property name="source" type="string">
+            <column name="source" length="50" />
+        </property>
+        <property name="content" type="string">
+            <column name="content" length="65535" />
+        </property>
+        <property name="http" type="string">
+            <column name="http" length="365" />
+        </property>
+        <property name="commentSum" type="java.lang.Integer">
+            <column name="commentSum" />
+        </property>
+    </class>
+</hibernate-mapping>

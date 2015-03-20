@@ -1,0 +1,187 @@
+  	    	/////博客园搜索
+            //string taskname = "博客园";
+            //string KeywordsTable = "";
+            //string LevelNumber = "2";
+            //string DataBase = "html";
+            //string ListPageUrlTable = "";
+            //string ContentPageUrlTable = "";
+            //string ContentTable = "";
+            //string ListLinkUrl = "http://zzk.cnblogs.com/s?t=b&w=";
+            //string ListLinkMiddle = "&p=";
+            //string ListLinkUrlEnd = "";
+            //string ConentPageUrlXpath = "//h3[@class='searchItemTitle']/a";
+            //string CrawlingDepth = "20";
+            //string ListLinkPageAddNumber = "1";//博客园的列表页的的url是页数每次+1   淘宝是每次+40
+            //string LinkPageStartNumber = "1";
+            //string Interval = "60000";
+            //string Encoding = "utf-8";
+            //string[] Xpath = new string[] { "//*[@id='cb_post_title_url'] ", 
+            //                       "//div[@id='topics']/div/div[3]/a[1]", 
+            //                       "//*[@id='post-date']",
+            //                       "//*[@id='cnblogs_post_body']" };
+            //string[] ColumnName = new string[] { "title", "author", "post_date", "content" };
+
+            ////淘宝
+            //string taskname = "淘宝";
+            //string LevelNumber = "2";
+            //string DataBase = "html";
+            //string KeywordsTable = "";
+            //string ListPageUrlTable = "";
+            //string ContentPageUrlTable = "";
+            //string ContentTable = "";
+            //string ListLinkUrl = "http://s.taobao.com/search?initiative_id=staobaoz_20130825&jc=1&q=";
+            //string ListLinkMiddle = "&stats_click=search_radio_all%3A1&s=";
+            //string ListLinkUrlEnd = "";
+            //string ConentPageUrlXpath = "//h3[@class='summary']/a";
+            //string CrawlingDepth = "20";
+            //string ListLinkPageAddNumber = "40";//
+            //string LinkPageStartNumber = "0";
+            //string Interval = "10000";
+            //string Encoding = "gbk";
+            //string[] Xpath = new string[] { "//div[@class='tb-detail-hd']/h3 ", 
+            //                                 "//strong[@id='J_StrPrice']/em[2]", 
+            //                                 "//em[@class='J_TDealCount']",
+            //                                  "//ul[@id='J_TabBar']/li[2]/a/em"};
+            //string[] ColumnName = new string[] { "title", "price", "sales", "valuation" };
+
+
+            ///新浪微博==ok
+            string taskname = "新浪微博";
+            string KeywordsTable = "";
+            string LevelNumber = "1";
+            string ListLinkUrl = "http://s.weibo.com/weibo/";
+            string ListLinkMiddle = "&page=";
+            string ListLinkUrlEnd = "";
+            string ConentPageUrlXpath = "";
+            string CrawlingDepth = "1";
+            string ListLinkPageAddNumber = "1";//博客园的列表页的的url是页数每次+1   淘宝是每次+40
+            string LinkPageStartNumber = "1";
+            string Interval = "60000";
+            string Encoding = "utf-8";
+            string[] Xpath = new string[] { "//dl[@class='feed_list']/dd[@class='content']/p[@node-type='feed_list_content']/a", 
+                                            "//dl[@class='feed_list']/dd[@class='content']/p[@node-type='feed_list_content']/em",
+                                            "//dl[@class='feed_list']/dd[@class='content']/p[@class='info W_linkb W_textb']/a[1]"};
+            // "//dl[@class='feed_list']/dd[@class='content']/p[@class='info W_linkb W_textb']/span/a[1]",
+            // "//dl[@class='feed_list']/dd[@class='content']/p[@class='info W_linkb W_textb']/span/a[2]",
+            // "//dl[@class='feed_list']/dd[@class='content']/p[@class='info W_linkb W_textb']/span/a[4]" };
+
+            ////网易===ok（各版块）
+            //string taskname = "网易";
+            //string KeywordsTable = "";
+            //string LevelNumber = "2";
+            //string ListLinkUrl = "http://";
+            //string ListLinkMiddle = ".163.com/";
+            //string ListLinkUrlEnd = "";
+            //string ConentPageUrlXpath = "//div/div/div/h3/a";//h3[@class='bigsize']/a[1]
+            //string CrawlingDepth = "1";
+            //string ListLinkPageAddNumber = "0";//
+            //string LinkPageStartNumber = "";
+            //string Interval = "10000";
+            //string Encoding = "utf-8";
+            //string[] Xpath = new string[] { "//h1[@id='h1title'] ", 
+            //                                 "//div[@class='ep-content-main']/div[4]",
+            //                                 "//div[@class='ep-info cDGray']/div[1]"};
+
+            ////东南网===ok(各版块)
+            //string taskname = "东南网";
+            //string KeywordsTable = "";
+            //string LevelNumber = "2";
+            //string ListLinkUrl = "http://";
+            //string ListLinkMiddle = ".fjsen.com/";
+            //string ListLinkUrlEnd = "";
+            //string ConentPageUrlXpath = "//html/body/div/div/div/ul/li/a";//h3[@class='bigsize']/a[1]
+            //string CrawlingDepth = "1";
+            //string ListLinkPageAddNumber = "0";//
+            //string LinkPageStartNumber = "";
+            //string Interval = "10000";
+            //string Encoding = "utf-8";
+            //string[] Xpath = new string[] { "//div[@class='content']/div[@class='left']/h1[1] ", 
+            //                                 "//div[@class='content']/div[@class='left']/table",
+            //                                 "//div[@class='content']/div[@class='left']/h3[1]"};
+
+            ////师大快讯==ok
+            //string taskname = "师大快讯";
+            //string KeywordsTable = "";
+            //string LevelNumber = "2";
+            //string ListLinkUrl = "http://office.fjnu.edu.cn/s/3/t/38/p/1/c/210/d/538/i/";
+            //string ListLinkMiddle = "";
+            //string ListLinkUrlEnd = "/list.jspy";
+            //string ConentPageUrlXpath = "//table[@class='columnStyle']/tr/td/a";
+            //string CrawlingDepth = "20";
+            //string ListLinkPageAddNumber = "1";//
+            //string LinkPageStartNumber = "1";
+            //string Interval = "10000";
+            //string Encoding = "utf-8";
+            //string[] Xpath = new string[] { "//div[@id='infotit']/table[2]/tr/td/table[1]/tr/td ", 
+            //                                 "//div[@id='infocontent']/table[1]/tr/td/table/tr/td",
+            //                                 "//div[@id='infotit']/table[2]/tr/td/table[2]/tr/td/span"};
+
+            ////大学城频道首页==ok
+            //string taskname = "大学城频道首页";
+            //string KeywordsTable = "";
+            //string LevelNumber = "2";
+            //string ListLinkUrl = "http://i.fjsen.com/";
+            //string ListLinkMiddle = "";
+            //string ListLinkUrlEnd = "";
+            //string ConentPageUrlXpath = "//ul/li/a";
+            //string CrawlingDepth = "1";
+            //string ListLinkPageAddNumber = "";//
+            //string LinkPageStartNumber = "";
+            //string Interval = "10000";
+            //string Encoding = "utf-8";
+            //string[] Xpath = new string[] { "//h1[@id='new_subject_id'] ", 
+            //                                 "//td[@id='new_message_id']",
+            //                                 "/html/body/div[5]/div/div[1]/div[2]/div[1]/div[2]"};
+
+            ////大学城频道==ok
+            //string taskname = "大学城频道各版块";
+            //string KeywordsTable = "";
+            //string LevelNumber = "2";
+            //string ListLinkUrl = "http://i.fjsen.com/node_11";
+            //string ListLinkMiddle = "";
+            //string ListLinkUrlEnd = ".htm";
+            //string ConentPageUrlXpath = "//div[@class='xinwen']/ul/li/h2/a";
+            //string CrawlingDepth = "18";
+            //string ListLinkPageAddNumber = "1";//
+            //string LinkPageStartNumber = "4981";
+            //string Interval = "10000";
+            //string Encoding = "utf-8";
+            //string[] Xpath = new string[] { "//h1[@id='new_subject_id'] ", 
+            //                                 "//td[@id='new_message_id']",
+            //                                 "/html/body/div[5]/div/div[1]/div[2]/div[1]/div[2]"};
+
+            /////腾讯新闻首页==ok
+            //string taskname = "腾讯新闻首页";
+            ////string KeywordsTable = "";
+            //string LevelNumber = "2";
+            //string ListLinkUrl = "http://news.qq.com/";
+            //string ListLinkMiddle = "";
+            //string ListLinkUrlEnd = "";
+            //string ConentPageUrlXpath = "//a[@class='linkto']";
+            //string CrawlingDepth = "1";
+            //string ListLinkPageAddNumber = "";
+            //string LinkPageStartNumber = "";
+            //string Interval = "60000";
+            //string Encoding = "gbk";
+            //string[] Xpath = new string[] { "//div[@class='hd']/h1", 
+            //                                "//div[@id='Cnt-Main-Article-QQ']",
+            //                                "//div[@class='ll']/span[@class='article-time']"};
+            //string[] ColumnName = new string[] { "title", "content" };  
+
+            ////师大bbs 
+            //string taskname = "师大bbs";
+            //string KeywordsTable = "";
+            //string LevelNumber = "2";
+            //string ListLinkUrl = "http://fjnubbs.net/forum-227-";
+            //string ListLinkMiddle = "";
+            //string ListLinkUrlEnd = ".html";
+            //string ConentPageUrlXpath = "//h3[@class='xw0']/a";
+            //string CrawlingDepth = "4";
+            //string ListLinkPageAddNumber = "1";
+            //string LinkPageStartNumber = "1";
+            //string Interval = "10000";
+            //string Encoding = "gbk";
+            //string[] Xpath = new string[] { "//span[@id='thread_subject'] ", 
+            //                                 "//td[@class='t_f']", 
+            //                                 "//div[@class='authi']/em"};
+            ////string[] ColumnName = new string[] { "title", "content"};  

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Task>
+	<Name>SoHu</Name>
+	<ContentTable>content</ContentTable>
+	<Encoding>utf-8</Encoding>
+	<LinkUrl>http://news.ifeng.com/</LinkUrl>
+	<CrawlDepth>20</CrawlDepth>
+	<Interval>60000</Interval>
+	<ColumnNames>
+		<Column>
+			<Name>title</Name>
+			<Xpath>//*[@id='container']/div[1]/div[2]/h1</Xpath>
+		</Column>
+		<Column>
+			<Name>time</Name>
+			<Xpath>//*[@id='pubtime_baidu']</Xpath>
+		</Column>
+		<Column>
+			<Name>source</Name>
+			<Xpath>//*[@id='media_span']</Xpath>
+		</Column>
+		<Column>
+			<Name>content</Name>
+			<Xpath>//*[@id='contentText']/div[1]</Xpath>
+		</Column>
+	</ColumnNames>
+</Task>

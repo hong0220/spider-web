@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Task>
+	<Name>FengHuang</Name>
+	<ContentTable>content</ContentTable>
+	<Encoding>utf-8</Encoding>
+	<LinkUrl>http://news.ifeng.com/</LinkUrl>
+	<Regex>http://news.ifeng.com/.*</Regex>
+	<CrawlDepth>20</CrawlDepth>
+	<Interval>60000</Interval>
+	<ColumnNames>
+		<Column>
+			<Name>title</Name>
+			<Xpath>//*[@id='artical_topic']/tidyText()</Xpath>
+		</Column>
+		<Column>
+			<Name>time</Name>
+			<Xpath>//*[@id='artical_sth']/p/span[1]/tidyText()</Xpath>
+		</Column>
+		<Column>
+			<Name>source</Name>
+			<Xpath>//*[@id='artical_sth']/p/span[3]/span/a/tidyText()</Xpath>
+		</Column>
+		<Column>
+			<Name>content</Name>
+			<Xpath>//*[@id='main_content']/tidyText()</Xpath>
+		</Column>
+	</ColumnNames>
+</Task>

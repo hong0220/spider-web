@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Task>
+	<Name>Sina</Name>
+	<ContentTable>content</ContentTable>
+	<Encoding>utf-8</Encoding>
+	<LinkUrl>http://news.sina.com.cn/</LinkUrl>
+	<CrawlDepth>20</CrawlDepth>
+	<Interval>60000</Interval>
+	<ColumnNames>
+		<Column>
+			<Name>title</Name>
+			<Xpath>//*[@id='artibodyTitle']</Xpath>
+		</Column>
+		<Column>
+			<Name>time</Name>
+			<Xpath>//*[@id='wrapOuter']/div/div[5]/span</Xpath>
+		</Column>
+		<Column>
+			<Name>source</Name>
+			<Xpath>//*[@id='wrapOuter']/div/div[5]/span/span/a[1]</Xpath>
+		</Column>
+		<Column>
+			<Name>content</Name>
+			<Xpath>//*[@id='artibody']</Xpath>
+		</Column>
+	</ColumnNames>
+</Task>
