@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2015-3-20 21:36:04 by Hibernate Tools 3.2.2.GA -->
+<hibernate-mapping>
+    <class name="com.hibernate.model.Ipagent" table="ipagent" catalog="spiders">
+        <id name="id" type="java.lang.Integer">
+            <column name="id" />
+            <generator class="identity" />
+        </id>
+        <property name="ip" type="string">
+            <column name="ip" length="15" />
+        </property>
+        <property name="port" type="java.lang.Integer">
+            <column name="port" />
+        </property>
+        <property name="can" type="string">
+            <column name="can" length="20" />
+        </property>
+    </class>
+</hibernate-mapping>
