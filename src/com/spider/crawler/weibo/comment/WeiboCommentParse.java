@@ -9,6 +9,7 @@ import org.jsoup.select.Elements;
 import com.hibernate.dao.WeiboCommentDao;
 import com.hibernate.model.WeiboComment;
 import com.spider.crawler.weibo.util.WeiboTimeUtil;
+import com.spider.utils.RegexUtil;
 
 /**
  * 微博评论解析
@@ -129,11 +130,22 @@ public class WeiboCommentParse {
 				}
 			}
 			String content = div.getElementsByClass("ctt").text().trim();
+
+			// String content = div.select("span.ctt").first().text();
+			System.out.println(content);
 			if (content != null && !"".equals(content)) {
 				content = content.trim();
-				content = content.split("赞")[0].trim().split("//@")[0].trim();
+				// content = content.split("//@")[0].trim();
+				if (content.startsWith("回复@")) {
+					content = RegexUtil.getData("^回复@[\\S]*:(.*)", content);
+				} else if (content.contains("//@")) {
+					// content = RegexUtil.getData("^//@[\\S]*:(.*?)//@",
+					// content);
+					content = RegexUtil.getData("^(.*?)//@", content);
+				}
+
 				System.out.println("内容 " + content);
-				weiboComment.setContent(content);
+				weiboComment.setContent(RegexUtil.strFilter(content));
 			}
 			String time = div.getElementsByClass("ct").text().trim();
 			if (time != null && !"".equals(time)) {
@@ -144,8 +156,10 @@ public class WeiboCommentParse {
 						+ "comment/".length(), url.indexOf("?")));
 
 				String source = time.substring(time.indexOf("来自")).trim();
-				weiboComment.setSource(source);
+				System.out.println(source);
+				weiboComment.setSource(RegexUtil.strFilter(source));
 
+				weiboComment.setHttp(url);
 				// if (!wcd.isExits(weiboComment)) {
 				wcd.save(weiboComment);
 				// }

@@ -30,7 +30,7 @@ public class RegexUtil {
 
 		// String regEx = "^[^a-zA-Z0-9_\u4e00-\u9fa5]*$";
 
-		String regEx = "[^a-zA-Z0-9_\u4e00-\u9fa5`~!@#$%^&*()+=|{}':;',\\[\\].<>/?~！@#￥%……&*（）——+|{}【】‘；：”“’。，、？]";
+		String regEx = "[^a-zA-Z0-9_\u4e00-\u9fa5`~!@#$%^&*()+=|{}':;',\\s\\[\\].<>/?~！@#￥%……&*（）——+|{}【】‘；：”“’。，、？]";
 		Pattern p = Pattern.compile(regEx);
 		Matcher m = p.matcher(str);
 		return m.replaceAll("").trim();
@@ -252,6 +252,27 @@ public class RegexUtil {
 		while (m.find()) {
 			System.out.println(m.group());
 			System.out.println(m.group(1));
+		}
+	}
+
+	public static String getData(String ruler, String content) {
+		List matches = null;
+		Pattern p = Pattern.compile(ruler, Pattern.CASE_INSENSITIVE
+				| Pattern.MULTILINE);
+		Matcher matcher = p.matcher(content);
+		if (matcher.find() && matcher.groupCount() >= 1) {
+			matches = new ArrayList();
+			for (int i = 1; i <= matcher.groupCount(); i++) {
+				String temp = matcher.group(i);
+				matches.add(temp);
+			}
+		} else {
+			matches = Collections.EMPTY_LIST;
+		}
+		if (matches.size() > 0) {
+			return ((String) matches.get(0)).trim();
+		} else {
+			return "";
 		}
 	}
 }

@@ -1,6 +1,6 @@
 package com.hibernate.model;
 
-// Generated 2015-3-20 21:36:04 by Hibernate Tools 3.2.2.GA
+// Generated 2015-3-22 13:12:17 by Hibernate Tools 3.2.2.GA
 
 import java.util.Date;
 
@@ -16,18 +16,20 @@ public class WeiboComment implements java.io.Serializable {
 	private Date time;
 	private String source;
 	private String weiboid;
+	private String http;
 
 	public WeiboComment() {
 	}
 
 	public WeiboComment(String cid, String userId, String content, Date time,
-			String source, String weiboid) {
+			String source, String weiboid, String http) {
 		this.cid = cid;
 		this.userId = userId;
 		this.content = content;
 		this.time = time;
 		this.source = source;
 		this.weiboid = weiboid;
+		this.http = http;
 	}
 
 	public Integer getId() {
@@ -84,6 +86,14 @@ public class WeiboComment implements java.io.Serializable {
 
 	public void setWeiboid(String weiboid) {
 		this.weiboid = weiboid;
+	}
+
+	public String getHttp() {
+		return this.http;
+	}
+
+	public void setHttp(String http) {
+		this.http = http;
 	}
 
 }
