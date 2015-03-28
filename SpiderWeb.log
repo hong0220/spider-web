@@ -1,0 +1,1332 @@
+2015-03-22 16:13:01 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 16:13:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=99
+2015-03-22 16:13:02 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=1
+2015-03-22 16:13:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=99
+2015-03-22 16:13:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=99
+2015-03-22 16:13:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=99
+2015-03-22 16:13:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=99
+2015-03-22 16:13:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=99
+2015-03-22 16:13:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=99
+2015-03-22 16:13:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=98
+2015-03-22 16:13:09 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=10
+2015-03-22 16:13:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=98
+2015-03-22 16:13:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=98
+2015-03-22 16:13:12 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=100
+2015-03-22 16:13:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=97
+2015-03-22 16:13:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=97
+2015-03-22 16:13:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=96
+2015-03-22 16:13:15 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=11
+2015-03-22 16:13:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=96
+2015-03-22 16:13:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=96
+2015-03-22 16:13:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=96
+2015-03-22 16:13:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=95
+2015-03-22 16:13:19 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=12
+2015-03-22 16:13:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=95
+2015-03-22 16:13:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=95
+2015-03-22 16:13:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=95
+2015-03-22 16:13:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=94
+2015-03-22 16:13:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=94
+2015-03-22 16:13:23 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=13
+2015-03-22 16:13:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=94
+2015-03-22 16:13:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=94
+2015-03-22 16:13:26 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=14
+2015-03-22 16:13:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=93
+2015-03-22 16:13:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=93
+2015-03-22 16:13:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=92
+2015-03-22 16:13:28 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=15
+2015-03-22 16:13:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=92
+2015-03-22 16:13:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=92
+2015-03-22 16:13:31 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=16
+2015-03-22 16:13:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=91
+2015-03-22 16:13:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=91
+2015-03-22 16:13:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=90
+2015-03-22 16:13:34 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=17
+2015-03-22 16:13:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=90
+2015-03-22 16:13:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=90
+2015-03-22 16:13:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=90
+2015-03-22 16:13:37 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=18
+2015-03-22 16:13:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=89
+2015-03-22 16:13:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=89
+2015-03-22 16:13:39 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=19
+2015-03-22 16:13:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=88
+2015-03-22 16:13:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=88
+2015-03-22 16:13:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=88
+2015-03-22 16:13:42 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:13:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=87
+2015-03-22 16:13:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=87
+2015-03-22 16:13:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=86
+2015-03-22 16:13:44 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=20
+2015-03-22 16:13:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=86
+2015-03-22 16:13:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=86
+2015-03-22 16:13:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=21
+2015-03-22 16:13:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=85
+2015-03-22 16:13:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=85
+2015-03-22 16:13:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=84
+2015-03-22 16:13:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=84
+2015-03-22 16:13:50 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=22
+2015-03-22 16:13:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=84
+2015-03-22 16:13:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=84
+2015-03-22 16:13:53 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=23
+2015-03-22 16:13:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=83
+2015-03-22 16:13:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=83
+2015-03-22 16:13:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=83
+2015-03-22 16:13:56 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=24
+2015-03-22 16:13:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=82
+2015-03-22 16:13:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=82
+2015-03-22 16:13:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=82
+2015-03-22 16:13:59 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=25
+2015-03-22 16:13:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=81
+2015-03-22 16:14:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=81
+2015-03-22 16:14:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=81
+2015-03-22 16:14:02 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=26
+2015-03-22 16:14:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=80
+2015-03-22 16:14:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=80
+2015-03-22 16:14:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=79
+2015-03-22 16:14:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=79
+2015-03-22 16:14:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=79
+2015-03-22 16:14:07 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=27
+2015-03-22 16:14:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=79
+2015-03-22 16:14:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=79
+2015-03-22 16:14:09 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=28
+2015-03-22 16:14:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=78
+2015-03-22 16:14:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=78
+2015-03-22 16:14:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=78
+2015-03-22 16:14:12 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=29
+2015-03-22 16:14:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=77
+2015-03-22 16:14:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=77
+2015-03-22 16:14:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=77
+2015-03-22 16:14:15 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:14:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=76
+2015-03-22 16:14:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=76
+2015-03-22 16:14:17 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=30
+2015-03-22 16:14:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=75
+2015-03-22 16:14:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=75
+2015-03-22 16:14:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=74
+2015-03-22 16:14:20 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=31
+2015-03-22 16:14:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=74
+2015-03-22 16:14:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=74
+2015-03-22 16:14:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=73
+2015-03-22 16:14:23 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=32
+2015-03-22 16:14:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=73
+2015-03-22 16:14:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=73
+2015-03-22 16:14:25 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=33
+2015-03-22 16:14:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=72
+2015-03-22 16:14:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=72
+2015-03-22 16:14:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=72
+2015-03-22 16:14:28 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=34
+2015-03-22 16:14:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=71
+2015-03-22 16:14:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=71
+2015-03-22 16:14:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=70
+2015-03-22 16:14:31 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=35
+2015-03-22 16:14:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=70
+2015-03-22 16:14:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=70
+2015-03-22 16:14:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=69
+2015-03-22 16:14:33 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=36
+2015-03-22 16:14:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=69
+2015-03-22 16:14:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=69
+2015-03-22 16:14:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=68
+2015-03-22 16:14:37 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=37
+2015-03-22 16:14:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=68
+2015-03-22 16:14:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=68
+2015-03-22 16:14:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=67
+2015-03-22 16:14:40 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=38
+2015-03-22 16:14:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=67
+2015-03-22 16:14:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=67
+2015-03-22 16:14:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=67
+2015-03-22 16:14:43 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=39
+2015-03-22 16:14:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=66
+2015-03-22 16:14:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=66
+2015-03-22 16:14:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=4
+2015-03-22 16:14:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=65
+2015-03-22 16:14:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=65
+2015-03-22 16:14:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=65
+2015-03-22 16:14:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=64
+2015-03-22 16:14:48 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=40
+2015-03-22 16:14:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=64
+2015-03-22 16:14:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=64
+2015-03-22 16:14:51 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=41
+2015-03-22 16:14:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=63
+2015-03-22 16:14:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=63
+2015-03-22 16:14:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=63
+2015-03-22 16:14:54 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=42
+2015-03-22 16:14:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=62
+2015-03-22 16:14:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=62
+2015-03-22 16:14:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=61
+2015-03-22 16:14:56 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=43
+2015-03-22 16:14:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=61
+2015-03-22 16:14:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=61
+2015-03-22 16:14:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=60
+2015-03-22 16:15:00 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=44
+2015-03-22 16:15:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=60
+2015-03-22 16:15:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=60
+2015-03-22 16:15:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=59
+2015-03-22 16:15:03 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=45
+2015-03-22 16:15:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=59
+2015-03-22 16:15:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=59
+2015-03-22 16:15:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=58
+2015-03-22 16:15:06 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=46
+2015-03-22 16:15:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=58
+2015-03-22 16:15:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=58
+2015-03-22 16:15:08 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=47
+2015-03-22 16:15:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=57
+2015-03-22 16:15:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=57
+2015-03-22 16:15:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=57
+2015-03-22 16:15:11 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=48
+2015-03-22 16:15:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=56
+2015-03-22 16:15:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=56
+2015-03-22 16:15:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=55
+2015-03-22 16:15:14 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=49
+2015-03-22 16:15:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=55
+2015-03-22 16:15:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=55
+2015-03-22 16:15:16 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=5
+2015-03-22 16:15:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=54
+2015-03-22 16:15:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=54
+2015-03-22 16:15:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=54
+2015-03-22 16:15:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=53
+2015-03-22 16:15:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=53
+2015-03-22 16:15:20 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=50
+2015-03-22 16:15:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=53
+2015-03-22 16:15:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=53
+2015-03-22 16:15:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=52
+2015-03-22 16:15:23 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=51
+2015-03-22 16:15:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=52
+2015-03-22 16:15:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=52
+2015-03-22 16:15:26 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=52
+2015-03-22 16:15:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=51
+2015-03-22 16:15:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=51
+2015-03-22 16:15:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=51
+2015-03-22 16:15:29 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=53
+2015-03-22 16:15:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=50
+2015-03-22 16:15:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=50
+2015-03-22 16:15:31 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=54
+2015-03-22 16:15:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=49
+2015-03-22 16:15:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=49
+2015-03-22 16:15:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=49
+2015-03-22 16:15:34 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=55
+2015-03-22 16:15:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=48
+2015-03-22 16:15:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=48
+2015-03-22 16:15:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=47
+2015-03-22 16:15:37 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=56
+2015-03-22 16:15:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=47
+2015-03-22 16:15:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=47
+2015-03-22 16:15:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=46
+2015-03-22 16:15:39 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=57
+2015-03-22 16:15:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=46
+2015-03-22 16:15:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=46
+2015-03-22 16:15:42 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=58
+2015-03-22 16:15:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=45
+2015-03-22 16:15:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=45
+2015-03-22 16:15:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=44
+2015-03-22 16:15:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=59
+2015-03-22 16:15:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=44
+2015-03-22 16:21:57 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 16:21:58 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=1
+2015-03-22 16:21:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:21:59 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:21:59 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:00 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:00 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:01 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:01 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:22:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:05 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:22:06 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:22:07 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:07 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:22:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:22:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:22:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:22:36 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 16:22:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:38 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:38 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:38 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=1
+2015-03-22 16:22:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:39 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:39 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:40 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:40 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:41 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:41 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:42 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:42 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:22:43 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:43 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:22:44 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:44 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:22:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:22:45 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:22:46 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:46 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:22:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:22:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:22:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:25:56 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 16:25:56 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=1
+2015-03-22 16:25:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:25:57 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:25:57 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:25:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:25:58 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:25:58 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:25:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:25:59 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:25:59 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:26:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:26:00 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:26:00 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:26:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:26:01 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:26:01 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:26:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:26:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:26:02 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 16:26:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:26:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:26:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:26:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:26:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:26:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:26:05 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 16:26:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:26:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:26:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:29:30 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 16:29:31 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=1
+2015-03-22 16:29:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:29:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:29:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:29:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:29:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:29:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:29:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:29:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=8
+2015-03-22 16:29:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=8
+2015-03-22 16:29:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=8
+2015-03-22 16:29:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=8
+2015-03-22 16:29:41 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=10
+2015-03-22 16:29:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=8
+2015-03-22 16:29:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=8
+2015-03-22 16:29:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=7
+2015-03-22 16:29:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=2
+2015-03-22 16:29:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=7
+2015-03-22 16:29:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=7
+2015-03-22 16:29:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=3
+2015-03-22 16:29:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=6
+2015-03-22 16:29:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=6
+2015-03-22 16:29:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=6
+2015-03-22 16:29:50 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=4
+2015-03-22 16:29:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=5
+2015-03-22 16:29:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=5
+2015-03-22 16:29:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=4
+2015-03-22 16:29:52 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=6
+2015-03-22 16:29:52 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=7
+2015-03-22 16:29:52 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=8
+2015-03-22 16:29:52 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=9
+2015-03-22 16:29:53 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=5
+2015-03-22 16:29:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=4
+2015-03-22 16:29:53 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=6
+2015-03-22 16:29:53 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=7
+2015-03-22 16:29:53 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=8
+2015-03-22 16:29:53 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=9
+2015-03-22 16:29:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=4
+2015-03-22 16:29:54 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=6
+2015-03-22 16:29:54 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=7
+2015-03-22 16:29:54 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=8
+2015-03-22 16:29:54 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=9
+2015-03-22 16:29:55 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=6
+2015-03-22 16:29:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=3
+2015-03-22 16:29:55 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=7
+2015-03-22 16:29:55 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=8
+2015-03-22 16:29:55 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C5LvcuArz?uid=1196126832&rl=0&page=9
+2015-03-22 16:30:44 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 16:30:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=1
+2015-03-22 16:30:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:30:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:30:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:30:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:30:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:30:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 16:30:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=8
+2015-03-22 16:30:51 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=10
+2015-03-22 16:30:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=8
+2015-03-22 16:30:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=8
+2015-03-22 16:30:54 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=2
+2015-03-22 16:30:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=7
+2015-03-22 16:30:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=7
+2015-03-22 16:30:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=6
+2015-03-22 16:30:57 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=3
+2015-03-22 16:30:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=6
+2015-03-22 16:30:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=6
+2015-03-22 16:30:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=5
+2015-03-22 16:31:00 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=4
+2015-03-22 16:31:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=5
+2015-03-22 16:31:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=5
+2015-03-22 16:31:02 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=5
+2015-03-22 16:31:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=4
+2015-03-22 16:31:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=6
+2015-03-22 16:31:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=7
+2015-03-22 16:31:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=8
+2015-03-22 16:31:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=4
+2015-03-22 16:31:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=6
+2015-03-22 16:31:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=7
+2015-03-22 16:31:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=8
+2015-03-22 16:31:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=3
+2015-03-22 16:31:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=7
+2015-03-22 16:31:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=8
+2015-03-22 16:31:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:05 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=6
+2015-03-22 16:31:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=3
+2015-03-22 16:31:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=7
+2015-03-22 16:31:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=8
+2015-03-22 16:31:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=3
+2015-03-22 16:31:06 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=7
+2015-03-22 16:31:06 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=8
+2015-03-22 16:31:06 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:07 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=7
+2015-03-22 16:31:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:31:07 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=8
+2015-03-22 16:31:07 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=2
+2015-03-22 16:31:08 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=8
+2015-03-22 16:31:08 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:31:09 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:10 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=8
+2015-03-22 16:31:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:31:10 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2015-03-22 16:31:11 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:31:13 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 16:31:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:31:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 16:31:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:06:12 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 17:06:13 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=1
+2015-03-22 17:06:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:06:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:06:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:06:34 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 17:06:34 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=10
+2015-03-22 17:06:35 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=1
+2015-03-22 17:06:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:06:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:06:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:06:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:06:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:06:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:06:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=96
+2015-03-22 17:06:41 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=100
+2015-03-22 17:06:41 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=11
+2015-03-22 17:06:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=96
+2015-03-22 17:06:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=96
+2015-03-22 17:06:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=94
+2015-03-22 17:06:44 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=13
+2015-03-22 17:06:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=12
+2015-03-22 17:06:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=94
+2015-03-22 17:06:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=94
+2015-03-22 17:06:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=14
+2015-03-22 17:06:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=93
+2015-03-22 17:06:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=15
+2015-03-22 17:06:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=92
+2015-03-22 17:06:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=92
+2015-03-22 17:06:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=91
+2015-03-22 17:06:50 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=16
+2015-03-22 17:06:51 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=17
+2015-03-22 17:06:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=90
+2015-03-22 17:06:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=90
+2015-03-22 17:06:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=89
+2015-03-22 17:06:53 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=18
+2015-03-22 17:06:54 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=19
+2015-03-22 17:06:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=88
+2015-03-22 17:06:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=88
+2015-03-22 17:06:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=88
+2015-03-22 17:06:56 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=2
+2015-03-22 17:06:57 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=20
+2015-03-22 17:06:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=86
+2015-03-22 17:06:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=86
+2015-03-22 17:06:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=85
+2015-03-22 17:06:59 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=21
+2015-03-22 17:06:59 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=22
+2015-03-22 17:07:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=84
+2015-03-22 17:07:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=84
+2015-03-22 17:07:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=82
+2015-03-22 17:07:02 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=23
+2015-03-22 17:07:03 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=24
+2015-03-22 17:07:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=82
+2015-03-22 17:07:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=82
+2015-03-22 17:07:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=81
+2015-03-22 17:07:05 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=25
+2015-03-22 17:07:05 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=26
+2015-03-22 17:07:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=80
+2015-03-22 17:07:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=80
+2015-03-22 17:07:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=79
+2015-03-22 17:07:08 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=27
+2015-03-22 17:07:08 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=28
+2015-03-22 17:07:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=78
+2015-03-22 17:07:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=78
+2015-03-22 17:07:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=78
+2015-03-22 17:07:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=78
+2015-03-22 17:07:12 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=29
+2015-03-22 17:07:12 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=3
+2015-03-22 17:07:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=76
+2015-03-22 17:07:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=76
+2015-03-22 17:07:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=74
+2015-03-22 17:07:15 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=31
+2015-03-22 17:07:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=74
+2015-03-22 17:07:16 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=30
+2015-03-22 17:07:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=74
+2015-03-22 17:07:18 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=32
+2015-03-22 17:07:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=73
+2015-03-22 17:07:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=72
+2015-03-22 17:07:19 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=33
+2015-03-22 17:07:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=72
+2015-03-22 17:07:20 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=34
+2015-03-22 17:07:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=71
+2015-03-22 17:07:21 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=35
+2015-03-22 17:07:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=70
+2015-03-22 17:07:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=69
+2015-03-22 17:07:23 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=36
+2015-03-22 17:07:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=68
+2015-03-22 17:07:25 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=37
+2015-03-22 17:07:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=68
+2015-03-22 17:07:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=67
+2015-03-22 17:07:27 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=38
+2015-03-22 17:07:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=67
+2015-03-22 17:07:27 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=39
+2015-03-22 17:07:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=66
+2015-03-22 17:07:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=65
+2015-03-22 17:07:29 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=4
+2015-03-22 17:07:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=64
+2015-03-22 17:07:30 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=40
+2015-03-22 17:07:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=64
+2015-03-22 17:07:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=63
+2015-03-22 17:07:32 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=41
+2015-03-22 17:07:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=62
+2015-03-22 17:07:33 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=42
+2015-03-22 17:07:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=62
+2015-03-22 17:07:34 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=43
+2015-03-22 17:07:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=61
+2015-03-22 17:07:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=60
+2015-03-22 17:07:36 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=44
+2015-03-22 17:07:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=59
+2015-03-22 17:07:37 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=45
+2015-03-22 17:07:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=59
+2015-03-22 17:07:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=59
+2015-03-22 17:07:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=59
+2015-03-22 17:07:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=59
+2015-03-22 17:07:41 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=46
+2015-03-22 17:07:41 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=47
+2015-03-22 17:07:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=57
+2015-03-22 17:07:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=57
+2015-03-22 17:07:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=56
+2015-03-22 17:07:44 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=48
+2015-03-22 17:07:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=55
+2015-03-22 17:07:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=49
+2015-03-22 17:07:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=55
+2015-03-22 17:07:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=5
+2015-03-22 17:07:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=54
+2015-03-22 17:07:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=53
+2015-03-22 17:07:48 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=50
+2015-03-22 17:07:49 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=51
+2015-03-22 17:07:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=52
+2015-03-22 17:07:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=52
+2015-03-22 17:07:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=51
+2015-03-22 17:07:51 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=52
+2015-03-22 17:07:51 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=53
+2015-03-22 17:07:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=50
+2015-03-22 17:07:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=50
+2015-03-22 17:07:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=50
+2015-03-22 17:07:55 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=54
+2015-03-22 17:07:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=48
+2015-03-22 17:07:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=48
+2015-03-22 17:07:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=48
+2015-03-22 17:07:58 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=56
+2015-03-22 17:07:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=47
+2015-03-22 17:07:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=47
+2015-03-22 17:08:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=46
+2015-03-22 17:08:01 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=57
+2015-03-22 17:08:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=46
+2015-03-22 17:08:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=46
+2015-03-22 17:08:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=45
+2015-03-22 17:08:03 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=58
+2015-03-22 17:08:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=45
+2015-03-22 17:08:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=45
+2015-03-22 17:08:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=44
+2015-03-22 17:08:06 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=59
+2015-03-22 17:08:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=44
+2015-03-22 17:08:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=44
+2015-03-22 17:08:08 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=6
+2015-03-22 17:08:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=43
+2015-03-22 17:08:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=43
+2015-03-22 17:08:11 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=60
+2015-03-22 17:08:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=42
+2015-03-22 17:08:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=42
+2015-03-22 17:08:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=41
+2015-03-22 17:08:13 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=61
+2015-03-22 17:08:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=41
+2015-03-22 17:08:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=41
+2015-03-22 17:08:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=40
+2015-03-22 17:08:16 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=62
+2015-03-22 17:08:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=40
+2015-03-22 17:08:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=40
+2015-03-22 17:08:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=39
+2015-03-22 17:08:19 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=63
+2015-03-22 17:08:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=39
+2015-03-22 17:08:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=39
+2015-03-22 17:08:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=38
+2015-03-22 17:08:22 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=64
+2015-03-22 17:08:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=38
+2015-03-22 17:08:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=38
+2015-03-22 17:08:24 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=65
+2015-03-22 17:08:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=37
+2015-03-22 17:08:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=37
+2015-03-22 17:08:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=36
+2015-03-22 17:08:27 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=66
+2015-03-22 17:08:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=36
+2015-03-22 17:08:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=36
+2015-03-22 17:08:29 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=67
+2015-03-22 17:08:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=35
+2015-03-22 17:08:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=35
+2015-03-22 17:08:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=34
+2015-03-22 17:08:32 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=68
+2015-03-22 17:08:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=34
+2015-03-22 17:08:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=34
+2015-03-22 17:08:35 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=69
+2015-03-22 17:08:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=33
+2015-03-22 17:08:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=33
+2015-03-22 17:08:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=32
+2015-03-22 17:08:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=32
+2015-03-22 17:08:39 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=7
+2015-03-22 17:08:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=32
+2015-03-22 17:08:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=32
+2015-03-22 17:08:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=32
+2015-03-22 17:08:41 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=70
+2015-03-22 17:08:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=31
+2015-03-22 17:08:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=31
+2015-03-22 17:08:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=30
+2015-03-22 17:08:44 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=71
+2015-03-22 17:08:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=30
+2015-03-22 17:08:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=30
+2015-03-22 17:08:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=29
+2015-03-22 17:08:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=72
+2015-03-22 17:08:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=29
+2015-03-22 17:08:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=29
+2015-03-22 17:08:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=28
+2015-03-22 17:08:50 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=73
+2015-03-22 17:08:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=28
+2015-03-22 17:08:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=28
+2015-03-22 17:08:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=27
+2015-03-22 17:08:54 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=74
+2015-03-22 17:08:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=27
+2015-03-22 17:08:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=27
+2015-03-22 17:08:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=26
+2015-03-22 17:08:56 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=75
+2015-03-22 17:08:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=26
+2015-03-22 17:08:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=26
+2015-03-22 17:08:58 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=76
+2015-03-22 17:08:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=25
+2015-03-22 17:09:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=25
+2015-03-22 17:09:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=24
+2015-03-22 17:09:01 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=77
+2015-03-22 17:09:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=24
+2015-03-22 17:09:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=24
+2015-03-22 17:09:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=23
+2015-03-22 17:09:04 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=78
+2015-03-22 17:09:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=23
+2015-03-22 17:09:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=23
+2015-03-22 17:09:06 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=79
+2015-03-22 17:09:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=22
+2015-03-22 17:09:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=22
+2015-03-22 17:09:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=21
+2015-03-22 17:09:10 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=8
+2015-03-22 17:09:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=21
+2015-03-22 17:09:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=21
+2015-03-22 17:09:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=21
+2015-03-22 17:09:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=20
+2015-03-22 17:09:13 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=80
+2015-03-22 17:09:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=20
+2015-03-22 17:09:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=20
+2015-03-22 17:09:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=19
+2015-03-22 17:09:16 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=81
+2015-03-22 17:09:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=19
+2015-03-22 17:09:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=19
+2015-03-22 17:09:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=18
+2015-03-22 17:09:19 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=82
+2015-03-22 17:09:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=18
+2015-03-22 17:09:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=18
+2015-03-22 17:09:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=17
+2015-03-22 17:09:23 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=83
+2015-03-22 17:09:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=17
+2015-03-22 17:09:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=17
+2015-03-22 17:09:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=16
+2015-03-22 17:09:25 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=84
+2015-03-22 17:09:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=16
+2015-03-22 17:09:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=16
+2015-03-22 17:09:28 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=85
+2015-03-22 17:09:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=15
+2015-03-22 17:09:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=15
+2015-03-22 17:09:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=15
+2015-03-22 17:09:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=14
+2015-03-22 17:09:31 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=86
+2015-03-22 17:09:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=14
+2015-03-22 17:09:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=14
+2015-03-22 17:09:33 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=87
+2015-03-22 17:09:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=13
+2015-03-22 17:09:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=13
+2015-03-22 17:09:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=13
+2015-03-22 17:09:36 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=88
+2015-03-22 17:09:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=12
+2015-03-22 17:09:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=12
+2015-03-22 17:09:39 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=89
+2015-03-22 17:09:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=11
+2015-03-22 17:09:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=11
+2015-03-22 17:09:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=11
+2015-03-22 17:09:41 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=9
+2015-03-22 17:09:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=10
+2015-03-22 17:09:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=10
+2015-03-22 17:09:44 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=90
+2015-03-22 17:09:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:09:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:09:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:09:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=91
+2015-03-22 17:09:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=8
+2015-03-22 17:09:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=8
+2015-03-22 17:09:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=8
+2015-03-22 17:09:49 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=92
+2015-03-22 17:09:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=7
+2015-03-22 17:09:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=7
+2015-03-22 17:09:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=6
+2015-03-22 17:09:52 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=93
+2015-03-22 17:09:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=6
+2015-03-22 17:09:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=6
+2015-03-22 17:09:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:09:55 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=94
+2015-03-22 17:09:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:09:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:09:57 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=95
+2015-03-22 17:09:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=4
+2015-03-22 17:09:58 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=96
+2015-03-22 17:09:58 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=97
+2015-03-22 17:09:58 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:09:58 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:09:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=4
+2015-03-22 17:09:59 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=96
+2015-03-22 17:09:59 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=97
+2015-03-22 17:09:59 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:09:59 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=3
+2015-03-22 17:10:00 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=97
+2015-03-22 17:10:00 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:10:00 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:01 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=96
+2015-03-22 17:10:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=3
+2015-03-22 17:10:01 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=97
+2015-03-22 17:10:01 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:10:01 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=3
+2015-03-22 17:10:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=97
+2015-03-22 17:10:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:10:02 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=3
+2015-03-22 17:10:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=97
+2015-03-22 17:10:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:10:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:04 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=97
+2015-03-22 17:10:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=2
+2015-03-22 17:10:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:10:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=2
+2015-03-22 17:10:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:10:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=2
+2015-03-22 17:10:06 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:10:06 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=1
+2015-03-22 17:10:07 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:07 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=98
+2015-03-22 17:10:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=1
+2015-03-22 17:10:08 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=1
+2015-03-22 17:10:09 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:09 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/BhRSFfnjB?uid=1196126832&rl=0&page=99
+2015-03-22 17:10:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:10:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:11:10 [com.webcollector.fetcher.Fetcher-95]-[INFO] Aborting with 1 hung threads.
+2015-03-22 17:47:36 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 17:47:37 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=10
+2015-03-22 17:47:37 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=1
+2015-03-22 17:47:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:47:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:47:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:47:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:47:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:47:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=98
+2015-03-22 17:47:43 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=100
+2015-03-22 17:47:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=96
+2015-03-22 17:47:44 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=11
+2015-03-22 17:47:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=96
+2015-03-22 17:47:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=96
+2015-03-22 17:47:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=94
+2015-03-22 17:47:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=13
+2015-03-22 17:47:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=12
+2015-03-22 17:47:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=94
+2015-03-22 17:47:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=94
+2015-03-22 17:47:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=93
+2015-03-22 17:47:50 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=15
+2015-03-22 17:47:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=92
+2015-03-22 17:47:50 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=14
+2015-03-22 17:47:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=92
+2015-03-22 17:47:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=92
+2015-03-22 17:47:53 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=16
+2015-03-22 17:47:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=90
+2015-03-22 17:47:54 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=17
+2015-03-22 17:47:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=90
+2015-03-22 17:47:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=89
+2015-03-22 17:47:55 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=18
+2015-03-22 17:47:56 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=19
+2015-03-22 17:47:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=88
+2015-03-22 17:47:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=88
+2015-03-22 17:47:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=87
+2015-03-22 17:47:59 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=2
+2015-03-22 17:47:59 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=20
+2015-03-22 17:47:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=86
+2015-03-22 17:48:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=86
+2015-03-22 17:48:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=86
+2015-03-22 17:48:02 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=21
+2015-03-22 17:48:02 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=22
+2015-03-22 17:48:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=84
+2015-03-22 17:48:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=84
+2015-03-22 17:48:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=84
+2015-03-22 17:48:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=82
+2015-03-22 17:48:05 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=23
+2015-03-22 17:48:06 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=24
+2015-03-22 17:48:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=82
+2015-03-22 17:48:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=82
+2015-03-22 17:48:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=82
+2015-03-22 17:48:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=80
+2015-03-22 17:48:09 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=25
+2015-03-22 17:48:10 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=26
+2015-03-22 17:48:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=80
+2015-03-22 17:48:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=80
+2015-03-22 17:48:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=80
+2015-03-22 17:48:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=78
+2015-03-22 17:48:14 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=28
+2015-03-22 17:48:14 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=27
+2015-03-22 17:48:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=78
+2015-03-22 17:48:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=78
+2015-03-22 17:48:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=76
+2015-03-22 17:48:17 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=29
+2015-03-22 17:48:17 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=3
+2015-03-22 17:48:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=76
+2015-03-22 17:48:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=76
+2015-03-22 17:48:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=75
+2015-03-22 17:48:20 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=30
+2015-03-22 17:48:20 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=31
+2015-03-22 17:48:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=74
+2015-03-22 17:48:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=74
+2015-03-22 17:48:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=74
+2015-03-22 17:48:23 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=32
+2015-03-22 17:48:23 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=33
+2015-03-22 17:48:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=72
+2015-03-22 17:48:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=72
+2015-03-22 17:48:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=72
+2015-03-22 17:48:26 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=34
+2015-03-22 17:48:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=70
+2015-03-22 17:48:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=70
+2015-03-22 17:48:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=69
+2015-03-22 17:48:29 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=36
+2015-03-22 17:48:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=69
+2015-03-22 17:48:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=69
+2015-03-22 17:48:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=68
+2015-03-22 17:48:31 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=37
+2015-03-22 17:48:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=68
+2015-03-22 17:48:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=68
+2015-03-22 17:48:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=67
+2015-03-22 17:48:35 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=38
+2015-03-22 17:48:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=67
+2015-03-22 17:48:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=67
+2015-03-22 17:48:37 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=39
+2015-03-22 17:48:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=66
+2015-03-22 17:48:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=66
+2015-03-22 17:48:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=66
+2015-03-22 17:48:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=65
+2015-03-22 17:48:40 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=4
+2015-03-22 17:48:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=65
+2015-03-22 17:48:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=65
+2015-03-22 17:48:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=64
+2015-03-22 17:48:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=64
+2015-03-22 17:48:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=40
+2015-03-22 17:48:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=64
+2015-03-22 17:48:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=64
+2015-03-22 17:48:47 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=41
+2015-03-22 17:48:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=63
+2015-03-22 17:48:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=63
+2015-03-22 17:48:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=63
+2015-03-22 17:48:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=62
+2015-03-22 17:48:50 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=42
+2015-03-22 17:48:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=62
+2015-03-22 17:48:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=62
+2015-03-22 17:48:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=61
+2015-03-22 17:48:54 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=43
+2015-03-22 17:48:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=61
+2015-03-22 17:48:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=61
+2015-03-22 17:48:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=60
+2015-03-22 17:48:56 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=44
+2015-03-22 17:48:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=60
+2015-03-22 17:48:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=60
+2015-03-22 17:48:59 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=45
+2015-03-22 17:48:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=59
+2015-03-22 17:49:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=59
+2015-03-22 17:49:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=59
+2015-03-22 17:49:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=58
+2015-03-22 17:49:03 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=46
+2015-03-22 17:49:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=58
+2015-03-22 17:49:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=58
+2015-03-22 17:49:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=57
+2015-03-22 17:49:05 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=47
+2015-03-22 17:49:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=57
+2015-03-22 17:49:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=57
+2015-03-22 17:49:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=56
+2015-03-22 17:49:09 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=48
+2015-03-22 17:49:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=56
+2015-03-22 17:49:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=56
+2015-03-22 17:49:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=56
+2015-03-22 17:49:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=55
+2015-03-22 17:49:13 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=49
+2015-03-22 17:49:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=55
+2015-03-22 17:49:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=55
+2015-03-22 17:49:15 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=5
+2015-03-22 17:49:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=54
+2015-03-22 17:49:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=54
+2015-03-22 17:49:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=54
+2015-03-22 17:49:18 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=50
+2015-03-22 17:49:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=53
+2015-03-22 17:49:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=53
+2015-03-22 17:49:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=53
+2015-03-22 17:49:21 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=51
+2015-03-22 17:49:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=52
+2015-03-22 17:49:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=52
+2015-03-22 17:49:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=52
+2015-03-22 17:49:24 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=52
+2015-03-22 17:49:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=51
+2015-03-22 17:49:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=51
+2015-03-22 17:49:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=50
+2015-03-22 17:49:27 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=53
+2015-03-22 17:49:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=50
+2015-03-22 17:49:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=50
+2015-03-22 17:49:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:49:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:50:29 [com.webcollector.fetcher.Fetcher-95]-[INFO] Aborting with 2 hung threads.
+2015-03-22 17:53:05 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 17:53:06 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=35
+2015-03-22 17:53:07 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=54
+2015-03-22 17:53:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:53:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:53:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:53:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:53:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:53:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=49
+2015-03-22 17:53:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=47
+2015-03-22 17:53:13 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=55
+2015-03-22 17:53:13 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=56
+2015-03-22 17:53:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=47
+2015-03-22 17:53:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=47
+2015-03-22 17:53:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=46
+2015-03-22 17:53:16 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=57
+2015-03-22 17:53:16 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=58
+2015-03-22 17:53:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=45
+2015-03-22 17:53:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=45
+2015-03-22 17:53:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=45
+2015-03-22 17:53:19 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=59
+2015-03-22 17:53:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=43
+2015-03-22 17:53:20 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=6
+2015-03-22 17:53:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=43
+2015-03-22 17:53:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=43
+2015-03-22 17:53:22 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=60
+2015-03-22 17:53:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=41
+2015-03-22 17:53:23 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=61
+2015-03-22 17:53:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=41
+2015-03-22 17:53:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=40
+2015-03-22 17:53:25 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=62
+2015-03-22 17:53:26 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=63
+2015-03-22 17:53:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=39
+2015-03-22 17:53:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=39
+2015-03-22 17:53:28 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=64
+2015-03-22 17:53:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=38
+2015-03-22 17:53:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=37
+2015-03-22 17:53:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=37
+2015-03-22 17:53:30 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=66
+2015-03-22 17:53:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=36
+2015-03-22 17:53:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=36
+2015-03-22 17:53:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=36
+2015-03-22 17:53:33 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=67
+2015-03-22 17:53:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=35
+2015-03-22 17:53:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=35
+2015-03-22 17:53:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=35
+2015-03-22 17:53:36 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=68
+2015-03-22 17:53:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=34
+2015-03-22 17:53:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=34
+2015-03-22 17:53:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=34
+2015-03-22 17:53:39 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=69
+2015-03-22 17:53:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=33
+2015-03-22 17:53:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=33
+2015-03-22 17:53:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=32
+2015-03-22 17:53:42 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=7
+2015-03-22 17:53:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=32
+2015-03-22 17:53:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=32
+2015-03-22 17:53:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=31
+2015-03-22 17:53:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=70
+2015-03-22 17:53:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=31
+2015-03-22 17:53:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=31
+2015-03-22 17:53:48 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=71
+2015-03-22 17:53:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=30
+2015-03-22 17:53:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=30
+2015-03-22 17:53:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=30
+2015-03-22 17:53:50 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=72
+2015-03-22 17:53:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=29
+2015-03-22 17:53:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=29
+2015-03-22 17:53:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=28
+2015-03-22 17:53:53 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=73
+2015-03-22 17:53:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=28
+2015-03-22 17:53:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=28
+2015-03-22 17:53:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=27
+2015-03-22 17:53:56 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=74
+2015-03-22 17:53:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=27
+2015-03-22 17:53:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=27
+2015-03-22 17:53:58 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=75
+2015-03-22 17:53:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=26
+2015-03-22 17:54:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=26
+2015-03-22 17:54:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=25
+2015-03-22 17:54:01 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=76
+2015-03-22 17:54:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=25
+2015-03-22 17:54:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=25
+2015-03-22 17:54:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=24
+2015-03-22 17:54:04 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=77
+2015-03-22 17:54:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=24
+2015-03-22 17:54:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=24
+2015-03-22 17:54:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=23
+2015-03-22 17:54:07 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=78
+2015-03-22 17:54:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=23
+2015-03-22 17:54:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=23
+2015-03-22 17:54:09 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=79
+2015-03-22 17:54:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=22
+2015-03-22 17:54:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=22
+2015-03-22 17:54:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=22
+2015-03-22 17:54:12 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=8
+2015-03-22 17:54:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=21
+2015-03-22 17:54:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=21
+2015-03-22 17:54:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=20
+2015-03-22 17:54:15 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=80
+2015-03-22 17:54:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=20
+2015-03-22 17:54:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=20
+2015-03-22 17:54:18 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=81
+2015-03-22 17:54:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=19
+2015-03-22 17:54:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=19
+2015-03-22 17:54:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=19
+2015-03-22 17:54:20 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=82
+2015-03-22 17:54:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=18
+2015-03-22 17:54:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=18
+2015-03-22 17:54:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=17
+2015-03-22 17:54:23 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=83
+2015-03-22 17:54:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=17
+2015-03-22 17:54:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=17
+2015-03-22 17:54:26 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=84
+2015-03-22 17:54:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=16
+2015-03-22 17:54:27 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=16
+2015-03-22 17:54:28 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=16
+2015-03-22 17:54:28 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=85
+2015-03-22 17:54:29 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=15
+2015-03-22 17:54:30 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=15
+2015-03-22 17:54:31 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=14
+2015-03-22 17:54:31 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=86
+2015-03-22 17:54:32 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=14
+2015-03-22 17:54:33 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=14
+2015-03-22 17:54:33 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=87
+2015-03-22 17:54:34 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=13
+2015-03-22 17:54:35 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=13
+2015-03-22 17:54:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=13
+2015-03-22 17:54:36 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=88
+2015-03-22 17:54:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=12
+2015-03-22 17:54:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=12
+2015-03-22 17:54:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=11
+2015-03-22 17:54:39 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=89
+2015-03-22 17:54:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=11
+2015-03-22 17:54:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=11
+2015-03-22 17:54:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=10
+2015-03-22 17:54:42 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=9
+2015-03-22 17:54:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=10
+2015-03-22 17:54:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=10
+2015-03-22 17:54:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:54:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=90
+2015-03-22 17:54:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:54:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:54:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:54:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=8
+2015-03-22 17:54:49 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=91
+2015-03-22 17:54:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=8
+2015-03-22 17:54:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=8
+2015-03-22 17:54:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=7
+2015-03-22 17:54:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=7
+2015-03-22 17:54:53 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=92
+2015-03-22 17:54:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=7
+2015-03-22 17:54:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=7
+2015-03-22 17:54:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=6
+2015-03-22 17:54:56 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=93
+2015-03-22 17:54:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=6
+2015-03-22 17:54:58 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=6
+2015-03-22 17:54:59 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:54:59 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=94
+2015-03-22 17:55:00 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:55:01 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:55:02 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:55:02 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=95
+2015-03-22 17:55:03 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=4
+2015-03-22 17:55:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=96
+2015-03-22 17:55:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:03 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:04 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=4
+2015-03-22 17:55:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=96
+2015-03-22 17:55:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:04 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:05 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=4
+2015-03-22 17:55:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=96
+2015-03-22 17:55:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:05 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   3. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:06 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=3
+2015-03-22 17:55:06 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:06 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:06 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:06 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=96
+2015-03-22 17:55:07 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=3
+2015-03-22 17:55:07 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:07 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:07 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:08 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=3
+2015-03-22 17:55:08 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:08 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:08 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:09 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=2
+2015-03-22 17:55:09 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:09 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=2
+2015-03-22 17:55:10 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:10 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:10 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:11 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=2
+2015-03-22 17:55:11 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:11 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:12 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=2
+2015-03-22 17:55:12 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:12 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:13 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=1
+2015-03-22 17:55:13 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:13 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:14 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=1
+2015-03-22 17:55:14 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:15 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=1
+2015-03-22 17:55:15 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:16 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:16 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:17 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:18 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:19 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:20 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:21 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:22 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:23 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:24 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:25 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:26 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:34 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 17:55:36 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:55:36 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=65
+2015-03-22 17:55:36 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=90
+2015-03-22 17:55:37 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:55:38 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:55:39 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:55:40 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:55:41 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=9
+2015-03-22 17:55:42 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=7
+2015-03-22 17:55:42 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=91
+2015-03-22 17:55:42 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=92
+2015-03-22 17:55:43 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=7
+2015-03-22 17:55:44 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=7
+2015-03-22 17:55:45 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:55:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=93
+2015-03-22 17:55:45 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=94
+2015-03-22 17:55:46 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:55:47 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:55:48 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=5
+2015-03-22 17:55:48 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=96
+2015-03-22 17:55:48 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=95
+2015-03-22 17:55:49 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=3
+2015-03-22 17:55:49 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:49 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:49 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:50 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=3
+2015-03-22 17:55:50 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:50 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:50 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   2. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:51 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=2
+2015-03-22 17:55:51 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:51 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   1. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:51 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=98
+2015-03-22 17:55:51 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=97
+2015-03-22 17:55:52 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=1
+2015-03-22 17:55:52 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:53 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=1
+2015-03-22 17:55:53 [com.webcollector.fetcher.FetchQueue-42]-[INFO]   0. http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:54 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:54 [com.webcollector.fetcher.thread.FetcherThread-72]-[INFO] fetch http://weibo.cn/comment/C64DjjIIC?uid=1640016932&rl=0&page=99
+2015-03-22 17:55:55 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:56 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:55:57 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2015-03-22 17:56:09 [com.webcollector.crawler.Crawler-83]-[INFO] starting depth 1
+2015-03-22 17:56:10 [com.webcollector.fetcher.Fetcher-85]-[INFO] -activeThreads=0, spinWaiting=0, fetchQueue.size=0
