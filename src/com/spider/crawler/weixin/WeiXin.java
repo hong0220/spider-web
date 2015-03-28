@@ -9,14 +9,15 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import cn.edu.hfut.dmic.webcollector.crawler.DeepCrawler;
+import cn.edu.hfut.dmic.webcollector.model.Links;
+import cn.edu.hfut.dmic.webcollector.model.Page;
+
 import com.hibernate.dao.WeixinDao;
 import com.hibernate.model.Weixin;
 import com.spider.parse.HttpCleanerUtil;
 import com.spider.utils.DateTimeUtil;
 import com.spider.utils.StringUtil;
-import com.webcollector.crawler.DeepCrawler;
-import com.webcollector.model.Links;
-import com.webcollector.model.Page;
 
 /**
  * 使用htmlcleaner-2.10.jar,基于xpath语法解析

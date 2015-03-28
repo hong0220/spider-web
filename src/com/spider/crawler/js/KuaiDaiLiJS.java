@@ -5,12 +5,13 @@ import java.util.List;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
+import cn.edu.hfut.dmic.webcollector.crawler.DeepCrawler;
+import cn.edu.hfut.dmic.webcollector.model.Links;
+import cn.edu.hfut.dmic.webcollector.model.Page;
+
 import com.gargoylesoftware.htmlunit.BrowserVersion;
 import com.hibernate.dao.IpagentDao;
 import com.hibernate.model.Ipagent;
-import com.webcollector.crawler.DeepCrawler;
-import com.webcollector.model.Links;
-import com.webcollector.model.Page;
 
 /**
  * 抓取代理ip和port

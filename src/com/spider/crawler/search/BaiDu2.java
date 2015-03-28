@@ -4,14 +4,15 @@ import java.net.URLEncoder;
 
 import org.htmlcleaner.TagNode;
 
+import cn.edu.hfut.dmic.webcollector.crawler.DeepCrawler;
+import cn.edu.hfut.dmic.webcollector.model.Links;
+import cn.edu.hfut.dmic.webcollector.model.Page;
+
 import com.hibernate.dao.SearchDao;
 import com.hibernate.model.Search;
 import com.spider.parse.HttpCleanerUtil;
 import com.spider.utils.RegexUtil;
 import com.spider.utils.StringUtil;
-import com.webcollector.crawler.DeepCrawler;
-import com.webcollector.model.Links;
-import com.webcollector.model.Page;
 
 /**
  * HttpCleaner包,基于xpath解析,支持性不好

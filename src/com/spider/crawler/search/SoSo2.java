@@ -4,14 +4,14 @@ import java.net.URLEncoder;
 import java.util.List;
 
 import us.codecraft.xsoup.Xsoup;
+import cn.edu.hfut.dmic.webcollector.crawler.DeepCrawler;
+import cn.edu.hfut.dmic.webcollector.model.Links;
+import cn.edu.hfut.dmic.webcollector.model.Page;
 
 import com.hibernate.dao.SearchDao;
 import com.hibernate.model.Search;
 import com.spider.utils.RegexUtil;
 import com.spider.utils.StringUtil;
-import com.webcollector.crawler.DeepCrawler;
-import com.webcollector.model.Links;
-import com.webcollector.model.Page;
 
 /**
  * Xsoup包解析

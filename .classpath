@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="webcollector"/>
 	<classpathentry kind="src" path="hibernate"/>
 	<classpathentry kind="src" path="utils"/>
 	<classpathentry kind="src" path="test"/>
@@ -73,5 +72,6 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpcore-4.3.2.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/json/fastjson-1.1.22.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/quartz/quartz-1.8.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/WebCollector-2.04.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

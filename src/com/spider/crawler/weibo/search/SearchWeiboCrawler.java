@@ -1,10 +1,11 @@
 package com.spider.crawler.weibo.search;
 
+import cn.edu.hfut.dmic.webcollector.crawler.DeepCrawler;
+import cn.edu.hfut.dmic.webcollector.model.Links;
+import cn.edu.hfut.dmic.webcollector.model.Page;
+import cn.edu.hfut.dmic.webcollector.net.HttpRequesterImpl;
+
 import com.spider.crawler.weibo.util.WeiboCN;
-import com.webcollector.crawler.DeepCrawler;
-import com.webcollector.model.Links;
-import com.webcollector.model.Page;
-import com.webcollector.net.HttpRequesterImpl;
 
 /**
  * 关键字搜索微博

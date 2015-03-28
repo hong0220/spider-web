@@ -1,10 +1,12 @@
 package com.spider.crawler.weibo.comment;
 
-import com.webcollector.crawler.DeepCrawler;
-import com.webcollector.model.Links;
-import com.webcollector.model.Page;
-import com.webcollector.net.HttpRequesterImpl;
-import com.webcollector.proxy.Proxys;
+import com.spider.crawler.weibo.util.WeiboCN;
+
+import cn.edu.hfut.dmic.webcollector.crawler.DeepCrawler;
+import cn.edu.hfut.dmic.webcollector.model.Links;
+import cn.edu.hfut.dmic.webcollector.model.Page;
+import cn.edu.hfut.dmic.webcollector.net.HttpRequesterImpl;
+import cn.edu.hfut.dmic.webcollector.net.Proxys;
 
 /**
  * 微博评论解析
@@ -15,8 +17,7 @@ public class WeiboCommentCrawler extends DeepCrawler {
 	public WeiboCommentCrawler(String crawlPath) throws Exception {
 		super(crawlPath);
 		// 获取新浪微博的cookie，账号密码以明文形式传输，请使用小号
-		// String cookie = WeiboCN.getSinaCookie("微博用户名", "微博密码");
-		String cookie = "_T_WM=404c75f89f22dbc8280ab834d15ad092;SUB=_2A254CSDmDeTxGeVH41QR9S7JyjyIHXVb8kCurDV6PUJbrdANLXDlkW112o8--wOCwti8bq-_tJEXhTzCJA..;gsid_CTandWM=4uAt50b11Axn27qss1qN4gIX88e;";
+		String cookie = WeiboCN.getSinaCookie("微博用户名", "微博密码");
 		HttpRequesterImpl myRequester = (HttpRequesterImpl) this
 				.getHttpRequester();
 		myRequester.setCookie(cookie);
@@ -26,8 +27,7 @@ public class WeiboCommentCrawler extends DeepCrawler {
 			throws Exception {
 		super(crawlPath);
 		// 获取新浪微博的cookie，账号密码以明文形式传输，请使用小号
-		// String cookie = WeiboCN.getSinaCookie("微博用户名", "微博密码");
-		String cookie = "_T_WM=404c75f89f22dbc8280ab834d15ad092;SUB=_2A254CSDmDeTxGeVH41QR9S7JyjyIHXVb8kCurDV6PUJbrdANLXDlkW112o8--wOCwti8bq-_tJEXhTzCJA..;gsid_CTandWM=4uAt50b11Axn27qss1qN4gIX88e;";
+		String cookie = WeiboCN.getSinaCookie("微博用户名", "微博密码");
 
 		HttpRequesterImpl myRequester = (HttpRequesterImpl) this
 				.getHttpRequester();

@@ -4,15 +4,15 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import us.codecraft.xsoup.Xsoup;
+import cn.edu.hfut.dmic.webcollector.crawler.DeepCrawler;
+import cn.edu.hfut.dmic.webcollector.model.Links;
+import cn.edu.hfut.dmic.webcollector.model.Page;
+import cn.edu.hfut.dmic.webcollector.util.RegexRule;
 
 import com.hibernate.dao.BbsDao;
 import com.hibernate.model.Bbs;
 import com.spider.model.SpiderConfig;
 import com.spider.utils.StringUtil;
-import com.webcollector.crawler.DeepCrawler;
-import com.webcollector.model.Links;
-import com.webcollector.model.Page;
-import com.webcollector.util.RegexRule;
 
 /**
  * 论坛抽取模板

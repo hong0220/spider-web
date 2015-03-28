@@ -7,11 +7,12 @@ import org.jsoup.select.Elements;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import cn.edu.hfut.dmic.webcollector.model.Page;
+
 import com.hibernate.dao.WeiboDao;
 import com.hibernate.model.Weibo;
 import com.spider.crawler.weibo.util.WeiboTimeUtil;
 import com.spider.utils.RegexUtil;
-import com.webcollector.model.Page;
 
 public class WeiboParse2 {
 	public static final Logger LOG = LoggerFactory.getLogger(WeiboParse2.class);

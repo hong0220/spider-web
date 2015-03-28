@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="SpiderWeb">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/" source-path="/webcollector"/>
         <wb-resource deploy-path="/" source-path="/hibernate"/>
         <wb-resource deploy-path="/" source-path="/utils"/>
         <wb-resource deploy-path="/" source-path="/test"/>
