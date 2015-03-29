@@ -1297,3 +1297,19 @@
 2015-03-29 16:23:04 [cn.edu.hfut.dmic.webcollector.fetcher.Fetcher-284]-[INFO] fetch http://news.sina.com.cn/c/2015-03-29/052031656842.shtml
 2015-03-29 16:23:04 [cn.edu.hfut.dmic.webcollector.fetcher.Fetcher-397]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=46
 2015-03-29 16:23:05 [cn.edu.hfut.dmic.webcollector.fetcher.Fetcher-397]-[INFO] -activeThreads=2, spinWaiting=0, fetchQueue.size=46
+2015-03-29 17:04:40 [org.quartz.impl.StdSchedulerFactory-1179]-[INFO] Using default implementation for ThreadExecutor
+2015-03-29 17:04:41 [org.quartz.simpl.SimpleThreadPool-270]-[INFO] Job execution threads will use class loader of thread: main
+2015-03-29 17:04:41 [org.quartz.core.SchedulerSignalerImpl-60]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2015-03-29 17:04:41 [org.quartz.core.QuartzScheduler-229]-[INFO] Quartz Scheduler v.1.8.6 created.
+2015-03-29 17:04:41 [org.quartz.simpl.RAMJobStore-139]-[INFO] RAMJobStore initialized.
+2015-03-29 17:04:41 [org.quartz.core.QuartzScheduler-255]-[INFO] Scheduler meta-data: Quartz Scheduler (v1.8.6) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 100 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2015-03-29 17:04:41 [org.quartz.impl.StdSchedulerFactory-1324]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-03-29 17:04:41 [org.quartz.impl.StdSchedulerFactory-1328]-[INFO] Quartz scheduler version: 1.8.6
+2015-03-29 17:04:41 [org.quartz.core.QuartzScheduler-519]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.

@@ -39,11 +39,11 @@ public class TestQuartz {
 			CronTrigger trigger = new CronTrigger(" Income Report ",
 					" Report Generation ");
 
-			trigger.setCronExpression("0 10 23 * * ? *");
-
-			// trigger.setPriority(priority);
+			trigger.setCronExpression("30 * * * * ?");
 			// 00:30开始执行
 			// trigger.setCronExpression("0 30 00 * * ? *");
+
+			// trigger.setPriority(priority);
 			sched.scheduleJob(jobDetail, trigger);
 		} catch (Exception e) {
 			e.printStackTrace();
