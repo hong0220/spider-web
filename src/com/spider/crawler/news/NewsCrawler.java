@@ -133,8 +133,8 @@ public class NewsCrawler extends DeepCrawler {
 
 		// 新浪新闻
 		SpiderConfig spiderConfig = new SpiderConfig();
-		spiderConfig.setRuler("http://news.sina.com.cn/c/.*shtml");
 		spiderConfig.setHttp("http://news.sina.com.cn/china/");
+		spiderConfig.setRuler("http://news.sina.com.cn/c/.*shtml");
 		spiderConfig.setTitleRuler("//*[@id=artibodyTitle]/allText()");
 		spiderConfig
 				.setSourceRuler("//*[@id=wrapOuter]/div/div[5]/span/span/allText()#=>#");
@@ -151,35 +151,36 @@ public class NewsCrawler extends DeepCrawler {
 		System.out.println("------网易新闻--------");
 		// 网易新闻
 		SpiderConfig spiderConfig2 = new SpiderConfig();
-		spiderConfig2.setRuler("http://news.163.com/.*html");
 		spiderConfig2.setHttp("http://news.163.com/");
+		spiderConfig2
+				.setRuler("http://news.163.com/[\\d]+/[\\d]+/[\\d]+/.*html");
 		spiderConfig2.setTitleRuler("//*[@id=h1title]/allText()");
 		spiderConfig2.setSourceRuler("//*[@class=ep-time-soure]/allText()#=>#");
 		spiderConfig2
 				.setTimeRuler("//*[@class=ep-time-soure]/allText()#=>##split_small#.*#split_small#来源");
-		spiderConfig.setContentRuler("//*[@id=endText]/allText()");
+		spiderConfig2.setContentRuler("//*[@id=endText]/allText()");
 
-		NewsCrawler nc2 = new NewsCrawler("log/nc");
-		nc2.addSeed(spiderConfig.getHttp());
+		NewsCrawler nc2 = new NewsCrawler("log/nc2");
+		nc2.addSeed(spiderConfig2.getHttp());
 		nc2.setThreads(2);
-		nc2.setSpiderConfig(spiderConfig);
+		nc2.setSpiderConfig(spiderConfig2);
 		nc2.start(2);
 
 		System.out.println("------搜狐新闻--------");
 		// 搜狐新闻
 		SpiderConfig spiderConfig3 = new SpiderConfig();
-		spiderConfig3.setRuler("http://news.sohu.com/.*shtml");
 		spiderConfig3.setHttp("http://news.sohu.com/");
+		spiderConfig3.setRuler("http://news.sohu.com/.*shtml");
 		spiderConfig3.setTitleRuler("//h1/allText()");
 		spiderConfig3
 				.setSourceRuler("//*[@id=source_baidu]/allText()#=>#来源：#split_small#.*#split_small#");
 		spiderConfig3.setTimeRuler("//*[@id=pubtime_baidu]/allText()#=>#");
 		spiderConfig3.setContentRuler("//*[@id=contentText]/div[1]/allText()");
 
-		NewsCrawler nc3 = new NewsCrawler("log/nc");
-		nc3.addSeed(spiderConfig.getHttp());
+		NewsCrawler nc3 = new NewsCrawler("log/nc3");
+		nc3.addSeed(spiderConfig3.getHttp());
 		nc3.setThreads(2);
-		nc3.setSpiderConfig(spiderConfig);
+		nc3.setSpiderConfig(spiderConfig3);
 		nc3.start(2);
 	}
 }
