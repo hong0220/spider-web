@@ -16,8 +16,8 @@ public class SearchWeiboCrawler extends DeepCrawler {
 	public SearchWeiboCrawler(String crawlPath) throws Exception {
 		super(crawlPath);
 		// 获取新浪微博的cookie，账号密码以明文形式传输，请使用小号
-		String cookie = WeiboCN.getSinaCookie("微博用户名", "微博密码");
-
+		// String cookie = WeiboCN.getSinaCookie("微博用户名", "微博密码");
+		String cookie = "_T_WM=7beaa50607ac7adc82235d934c0d9886;SUB=_2A254PkTRDeTxGeNK6VIW8SfJwz6IHXVbwWyZrDV6PUJbrdANLU_wkW2I5h2u25ZVwLAWmgnApJNRgk5iVw..;gsid_CTandWM=4uPB50b11aNEDh1lvVDkfmKaX9o;";
 		HttpRequesterImpl myRequester = (HttpRequesterImpl) this
 				.getHttpRequester();
 		myRequester.setCookie(cookie);
@@ -41,11 +41,11 @@ public class SearchWeiboCrawler extends DeepCrawler {
 
 	public static void main(String[] args) throws Exception {
 		SearchWeiboCrawler swc = new SearchWeiboCrawler("log/swc");
-		swc.setThreads(1);
-		String keyword = "百度";
+		swc.setThreads(10);
+		String keyword = "柴静";
 		swc.setKeyword(keyword);
 		swc.setThreads(1);
-		for (int i = 1; i < 5; i++) {
+		for (int i = 1; i < 1115; i++) {
 			swc.addSeed("http://weibo.cn/search/mblog/?keyword=" + keyword
 					+ "&vt=4&page=" + i);
 		}

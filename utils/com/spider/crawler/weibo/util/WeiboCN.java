@@ -85,11 +85,14 @@ public class WeiboCN {
 		throw new Exception("weibo login failed");
 	}
 
+	// _T_WM=a613db19439cbb89e9ccc6a196d28286;SUB=_2A254GnF7DeTxGeVH41QR9S7JyjyIHXVb5R8zrDV6PUJbrdANLUOnkW2LHuJiZccVoacRQHj8SbNsvexFig..;gsid_CTandWM=4uAt50b11Axn27qss1qN4gIX88e;
 	public static void main(String[] args) {
 		String cookie = null;
 		try {
 			// 获取新浪微博的cookie，账号密码以明文形式传输，请使用小号
-			cookie = WeiboCN.getSinaCookie("微博用户名", "微博密码");
+			// cookie = WeiboCN.getSinaCookie("2806909069@qq.com",
+			// "hong0220aa");
+			cookie = WeiboCN.getSinaCookie("3167813428@qq.com", "hong0220aa");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
